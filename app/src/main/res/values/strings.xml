@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Attendance Register</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email_id">Enter Email id</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="view_list">View list</string>
+    <string-array name="spinner_users">
+        <item>Admin</item>
+        <item>Faculty</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="spinner_users2">
+        <item>Admin</item>
+        <item>Faculty</item>
+        <item>Student</item>
+    </string-array>
+</resources>
