@@ -13,7 +13,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
         android:layout_marginBottom="15dp"
-        android:text="Faculty List"
+        android:text="Faculty_List"
         android:textAlignment="center"
         android:textSize="30sp" />
 
