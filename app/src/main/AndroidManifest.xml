@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.App">
         <activity
+            android:name=".stud1"
+            android:exported="false" />
+        <activity
             android:name=".Admin4"
             android:exported="true" />
         <activity
