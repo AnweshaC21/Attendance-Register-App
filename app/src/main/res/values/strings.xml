@@ -14,4 +14,9 @@
         <item>Faculty</item>
         <item>Student</item>
     </string-array>
+    <string-array name="spinner_users3">
+        <item>Admin</item>
+        <item>Faculty</item>
+        <item>Student</item>
+    </string-array>
 </resources>

@@ -6,6 +6,29 @@
     android:layout_height="match_parent"
     tools:context=".Admin4">
 
+    <ImageButton
+        android:id="@+id/imageButtonDel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginBottom="12dp"
+        app:srcCompat="@android:drawable/ic_menu_delete" />
+
+    <ImageButton
+        android:id="@+id/imageButtonEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginBottom="12dp"
+        app:srcCompat="@android:drawable/ic_menu_edit" />
+
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"

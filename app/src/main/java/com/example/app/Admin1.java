@@ -44,9 +44,9 @@ public class Admin1 extends AppCompatActivity {
         adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner2.setAdapter(adapter2);
 
-        nameEditText = (EditText) findViewById(R.id.editTextTextPersonName);
-        emailEditText = (EditText) findViewById(R.id.editTextTextEmailAddress2);
-        passwordEditText = (EditText) findViewById(R.id.editTextTextPassword2);
+        //nameEditText = (EditText) findViewById(R.id.editTextTextPersonName);
+        //emailEditText = (EditText) findViewById(R.id.editTextTextEmailAddress2);
+        //passwordEditText = (EditText) findViewById(R.id.editTextTextPassword2);
 
 
         button = (Button) findViewById(R.id.button3);

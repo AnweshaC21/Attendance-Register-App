@@ -4,48 +4,52 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".Admin5"
+    tools:ignore="ExtraText">
 
-    <Spinner
-        android:id="@+id/spinner_users3"
-        android:layout_width="wrap_content"
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="300dp"
         android:layout_height="45dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
         android:ems="10"
-        android:textAlignment="center"
-        android:spinnerMode="dropdown"  />
+        android:hint="Name"
+        android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/editEmailAddress"
         android:layout_width="300dp"
         android:layout_height="45dp"
-        android:layout_alignParentTop="true"
-        android:layout_below="@+id/spinner_users3"
-        android:layout_marginTop="280dp"
-        android:layout_centerHorizontal="true"
-        android:ems="10"
-        android:hint="@string/enter_email_id"
-        android:inputType="textEmailAddress" />
-
-    <EditText
-        android:id="@+id/editTextTextPassword"
-        android:layout_width="300dp"
-        android:layout_height="45dp"
-        android:layout_below="@+id/editTextTextEmailAddress"
+        android:layout_below="@+id/editName"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
         android:ems="10"
-        android:hint="@string/enter_password"
+        android:hint="Email id"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/editPassword"
+        android:layout_width="300dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/editEmailAddress"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:hint="Password"
         android:inputType="textPassword" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonUpdate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/editTextTextPassword"
+        android:layout_below="@+id/editPassword"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
-        android:text="Login" />
+        android:text="Update" />
+
+
+
 
 </RelativeLayout>
