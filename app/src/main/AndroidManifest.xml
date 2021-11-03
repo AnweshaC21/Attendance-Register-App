@@ -10,15 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.App">
         <activity
-            android:name=".Faculty2"
-            android:exported="true" />
-        <activity
-            android:name=".Faculty1"
-            android:exported="true" />
-        <activity
-            android:name=".Admin5"
-            android:exported="true" />
-        <activity
             android:name=".stud1"
             android:exported="false" />
         <activity
