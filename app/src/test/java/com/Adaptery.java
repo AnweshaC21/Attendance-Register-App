@@ -1,12 +1,9 @@
 package com;
 
-import android.widget.ListAdapter;
-
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.GridView;
 import android.widget.ImageView;
 
 import com.example.app.R;
@@ -50,7 +47,7 @@ public class Adaptery extends BaseAdapter
     }
     //array of images
     public Integer[] mThumbIds={
-            R.drawable.book
+            R.drawable.book_111
     };
 
 
