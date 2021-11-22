@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 public class Admin1 extends AppCompatActivity {
 
-    private Button button;
+    private Button button, button2;
     String viewList = "none";
     int pos;
     EditText nameEditText,emailEditText,passwordEditText;
@@ -44,13 +44,7 @@ public class Admin1 extends AppCompatActivity {
         adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner2.setAdapter(adapter2);
 
-        //nameEditText = (EditText) findViewById(R.id.editTextTextPersonName);
-        //emailEditText = (EditText) findViewById(R.id.editTextTextEmailAddress2);
-        //passwordEditText = (EditText) findViewById(R.id.editTextTextPassword2);
-
-
         button = (Button) findViewById(R.id.button3);
-
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -66,6 +60,14 @@ public class Admin1 extends AppCompatActivity {
                         openActivityAdmin4();
                         break;
                 }
+            }
+        });
+
+        button2 = (Button) findViewById(R.id.button2);
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(getApplicationContext(),"User added successfully!", Toast.LENGTH_SHORT).show();
             }
         });
     }

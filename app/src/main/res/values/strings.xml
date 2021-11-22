@@ -19,4 +19,77 @@
         <item>Faculty</item>
         <item>Student</item>
     </string-array>
+    <string-array name="classroom_list">
+        <item>Web Technologies</item>
+        <item>Cryptography</item>
+        <item>Machine Learning</item>
+        <item>Software Engineering</item>
+        <item>Mobile App Development</item>
+        <item>Scilab</item>
+        <item>Mini Project</item>
+        <item>DSA</item>
+        <item>OOP</item>
+        <item>Data Analytics</item>
+    </string-array>
+    <string-array name="clasroom_description_faculty">
+        <item>MCA-Sem-III</item>
+        <item>MSc</item>
+        <item>MCA-Sem-III</item>
+        <item>MCA-Sem-I</item>
+        <item>MSc</item>
+        <item>MTech-CS</item>
+        <item>MSc</item>
+        <item>MTech-CS</item>
+        <item>MSc</item>
+        <item>MTech-CS</item>
+    </string-array>
+    <string-array name="clasroom_description_student">
+        <item>Professor-Name-1</item>
+        <item>Professor-Name-3</item>
+        <item>Professor-Name-2</item>
+        <item>Professor-Name-1</item>
+        <item>Professor-Name-3</item>
+        <item>Professor-Name-1</item>
+        <item>Professor-Name-2</item>
+        <item>Professor-Name-3</item>
+        <item>Professor-Name-2</item>
+        <item>Professor-Name-1</item>
+    </string-array>
+    <string-array name="topic_list">
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>JavaScript</item>
+        <item>PHP</item>
+        <item>DBMS</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>JavaScript</item>
+        <item>PHP</item>
+        <item>DBMS</item>
+    </string-array>
+    <string-array name="topic_date">
+        <item>17/09/2021</item>
+        <item>18/09/2021</item>
+        <item>30/09/2021</item>
+        <item>18/10/2021</item>
+        <item>18/10/2021</item>
+        <item>20/10/2021</item>
+        <item>01/11/2021</item>
+        <item>02/11/2021</item>
+        <item>18/11/2021</item>
+        <item>18/11/2021</item>
+    </string-array>
+    <string-array name="class_hour">
+        <item>10:00</item>
+        <item>10:00</item>
+        <item>15:30</item>
+        <item>15:30</item>
+        <item>11:00</item>
+        <item>10:00</item>
+        <item>10:00</item>
+        <item>15:30</item>
+        <item>15:30</item>
+        <item>11:00</item>
+    </string-array>
+
 </resources>

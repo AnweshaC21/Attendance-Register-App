@@ -15,7 +15,7 @@ public class sub_details extends AppCompatActivity {
     private AlertDialog dialog;
     private EditText otp_enter;
 
-    int pos;
+    int pos, tc=90, pc=70;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

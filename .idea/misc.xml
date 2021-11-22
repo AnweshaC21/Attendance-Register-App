@@ -3,25 +3,34 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin1.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin2.xml" value="0.2299349240780911" />
-        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin3.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin3.xml" value="0.2" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin4.xml" value="0.25416666666666665" />
-        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin5.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_faculty1.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_faculty2.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_stud1.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_sub_details.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/admin_list.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/faculty_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/faculty_schedule_class.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/my_row.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/my_row_faculty_class.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/my_row_topics.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/popup.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/row_item.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/strings.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/student_list.xml" value="0.25416666666666665" />
         <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/activity_admin1.xml" value="0.22" />
         <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/activity_admin2.xml" value="0.1796875" />
         <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/activity_admin3.xml" value="0.22" />
-        <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
-        <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/activity_stud1.xml" value="0.1796875" />
-        <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/activity_sub_details.xml" value="0.26953125" />
         <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/admin_list.xml" value="0.1796875" />
         <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/faculty_list.xml" value="0.1" />
-        <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/popup.xml" value="0.3333333333333333" />
-        <entry key="..\:/AttendanceRegisterApp/app/src/main/res/layout/row_item.xml" value="0.1" />
       </map>
     </option>
   </component>

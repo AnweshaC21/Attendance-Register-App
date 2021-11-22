@@ -6,42 +6,68 @@
     android:layout_height="match_parent"
     tools:context=".Admin1">
 
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="View User List"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
     <Spinner
         android:id="@+id/spinner_users2"
         android:layout_width="wrap_content"
-        android:layout_height="45dp"
-        android:layout_centerHorizontal="true"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="48dp"
         android:layout_marginTop="70dp"
         android:ems="10"
-        android:textAlignment="center"
-        android:spinnerMode="dropdown" />
+        android:spinnerMode="dropdown"
+        android:textAlignment="center" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/spinner_users2"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-49dp"
+        android:layout_marginEnd="47dp"
+        android:text="View" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
-        android:text="View List" />
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="246dp"
+        android:text="Add New User"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
     <Spinner
         android:id="@+id/spinner_users"
         android:layout_width="wrap_content"
-        android:layout_height="45dp"
+        android:layout_height="48dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="280dp"
         android:ems="10"
-        android:textAlignment="center"
-        android:spinnerMode="dropdown"  />
+        android:spinnerMode="dropdown"
+        android:textAlignment="center" />
 
     <EditText
         android:id="@+id/editTextTextPersonName"
         android:layout_width="300dp"
-        android:layout_height="45dp"
+        android:layout_height="48dp"
         android:layout_below="@+id/spinner_users"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="10dp"
         android:ems="10"
         android:hint="Enter Name"
         android:inputType="textPersonName" />
@@ -49,10 +75,10 @@
     <EditText
         android:id="@+id/editTextTextEmailAddress2"
         android:layout_width="300dp"
-        android:layout_height="45dp"
+        android:layout_height="48dp"
         android:layout_below="@+id/editTextTextPersonName"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="10dp"
         android:ems="10"
         android:hint="@string/enter_email_id"
         android:inputType="textEmailAddress" />
@@ -60,10 +86,10 @@
     <EditText
         android:id="@+id/editTextTextPassword2"
         android:layout_width="300dp"
-        android:layout_height="45dp"
+        android:layout_height="48dp"
         android:layout_below="@+id/editTextTextEmailAddress2"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="10dp"
         android:ems="10"
         android:hint="@string/enter_password"
         android:inputType="textPassword" />
@@ -74,7 +100,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/editTextTextPassword2"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="25dp"
-        android:text="Add user" />
+        android:layout_marginTop="20dp"
+        android:text="Add" />
 
 </RelativeLayout>
