@@ -31,7 +31,7 @@
         <item>OOP</item>
         <item>Data Analytics</item>
     </string-array>
-    <string-array name="clasroom_description_faculty">
+    <string-array name="clasroom_description">
         <item>MCA-Sem-III</item>
         <item>MSc</item>
         <item>MCA-Sem-III</item>
@@ -43,7 +43,7 @@
         <item>MSc</item>
         <item>MTech-CS</item>
     </string-array>
-    <string-array name="clasroom_description_student">
+    <string-array name="faculty_names">
         <item>Professor-Name-1</item>
         <item>Professor-Name-3</item>
         <item>Professor-Name-2</item>

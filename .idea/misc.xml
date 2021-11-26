@@ -4,18 +4,23 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/drawable/add_circle.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/drawable/ic_add_circle_black.xml" value="0.2703125" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/drawable/ic_person_add_black.xml" value="0.14635416666666667" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin1.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin2.xml" value="0.2299349240780911" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin3.xml" value="0.2" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin4.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_admin5.xml" value="0.25416666666666665" />
-        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_faculty1.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_faculty1.xml" value="0.2" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_faculty2.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_stud1.xml" value="0.264" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/activity_sub_details.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/admin_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/create_new_classroom.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/faculty_list.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/faculty_schedule_class.xml" value="0.264" />
         <entry key="..\:/AndroidStudioProjects/App/app/src/main/res/layout/layout.xml" value="0.25416666666666665" />

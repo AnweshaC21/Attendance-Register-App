@@ -125,17 +125,15 @@ public class Faculty2<random> extends AppCompatActivity {
                         });
                 AlertDialog dialog = builder.create();
                 dialog.show();
-
             }
         });
-
 
 //        topic = (EditText) findViewById(R.id.topicInput);
 //        date = (EditText) findViewById(R.id.editTextDate);
 //        time = (EditText) findViewById(R.id.editTextTime);
 
 /*        button2 = (Button) findViewById(R.id.buttonSchedule);
-        button2.setOnClickListener(new View.OnClickListener() {
+          button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 LayoutInflater li = LayoutInflater.from(Faculty2.this);
@@ -146,9 +144,7 @@ public class Faculty2<random> extends AppCompatActivity {
                 final EditText topicInput = (EditText) promptsView.findViewById(R.id.topicInput);
 //                final EditText dateInput = (EditText) promptsView.findViewById(R.id.editTextDate);
                 final EditText timeInput = (EditText) promptsView.findViewById(R.id.editTextTime);
-
 */
-
                 /*alertDialogBuilder.setCancelable(true);
                 alertDialogBuilder.setMessage("Schedule Class");
                 alertDialogBuilder.setPositiveButton("Schedule",
@@ -189,5 +185,4 @@ public class Faculty2<random> extends AppCompatActivity {
         Intent intent = new Intent(this, Admin4.class);
         startActivity(intent);
     }
-
 }
